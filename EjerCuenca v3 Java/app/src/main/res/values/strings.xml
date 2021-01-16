@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjerCuenca</string>
+    <string name="title_activity_maps_futbol">Mapa de Cuenca</string>
+    <string name="title_activity_maps_atletismo">Map</string>
+    <string name="title_activity_maps_basquet">Map</string>
+    <string name="title_activity_maps_ciclismo">Map</string>
+    <string name="title_activity_maps_natacion">Map</string>
+    <string name="title_activity_maps_patinaje">Map</string>
+</resources>
